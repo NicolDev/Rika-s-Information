@@ -3,16 +3,13 @@ Privacy Policy Last updated: May 02, 2022
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 By using our bot, you will need to agree to our Privacy Policy:
-1. I agree to let Rika collect some of my information, such as my Discord user id and my Discord server id.
-2. I agree to let Rika logs any other information for the upcoming updates.
+1. I agree that I will not spam commands.
 3. I agree that I will not abuse bugs.
 
 By using our bot, we (Rika's developers) will promise that we will not:
 1. Collect yours sensitive information.
 2. Change your server's / voice channel's / text channel's settings.
 3. Raid your server for a specific purpose.
-
-We will save your server's ID and user's ID. To delete it, kindly join our support server (https://discord.gg/W6FfCHPNGq) and request the head of bot developer, Nicole, to delete it. We will collect user id who created the sourcebin url, and also server id so we can know which server the user created from. Beside that, we also record every sourcebin url that created to our database, convenient when we need it Note that we will only search the user id, server id and sourcebin url when someone report the url with the proof. It’s very safe, only our developer team can access to the database.
 
 We have over a year of bot development experience and can guarantee that we will keep our token safe and that others will not be able to hack our bot and raid your server(s).But, if it happens, please do not blame us.
 
