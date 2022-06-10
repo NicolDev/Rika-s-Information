@@ -1,9 +1,9 @@
-Privacy Policy Last updated: May 02, 2022
+Privacy Policy Last updated: June 10, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
 By using our bot, you will need to agree to our Privacy Policy:
-1. I agree that I will not spam commands.
+1. I agree that I will not spam commands to every server.
 3. I agree that I will not abuse bugs.
 
 By using our bot, we (Rika's developers) will promise that we will not:
